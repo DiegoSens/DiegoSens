@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**DiegoSens/DiegoSens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome to my Github Profile 👋
+### Hey, it's Diego! Here you will find a part of myself, from my very first code to my latest project! Enjoy it!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# My statistics in Github
+[![Hua's github stats](https://github-readme-stats.vercel.app/api?username=DiegoSens&show_icons=true&theme=dark)](https://github.com/DiegoSens/github-readme-stats)
+
+
+### Contact me!: <img src="https://www.animatedimages.org/data/media/325/animated-telephone-image-0081.gif" width="60px">
+
+[![Linkedin Badge](https://img.shields.io/badge/-Diego_Senso_González-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/DiegoSens/)](https://www.linkedin.com/in/diegosenso/)
+[![Gmail Badge](https://img.shields.io/badge/-diego.senso@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.senso@hotmail.com)](mailto:'diego.senso@hotmail.com')
